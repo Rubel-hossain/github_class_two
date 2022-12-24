@@ -1,0 +1,15 @@
+.column {
+  color: #fff;
+}
+.our-container {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.our-col {
+  background: orange;
+}
+.our-row {
+  display: flex;
+  justify-content: space-between;
+}
